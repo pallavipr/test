@@ -1,0 +1,31 @@
+
+majority depoends on oracle, db2 to oracle migration needs it
+
+
+1) kepler -> seqouia, call with array, regtest since already in for luw
+
+2) dsdriver.cfg -> passwd (already delivered for fp7), not in any SES, fp2 (kepler)
+
+3) ability to specify dsdriver.cfg file name or just the path, complicated factor - multiple apps in the same process, one use per process, new environment variable
+
+4) MAJOR ITEM - set markup 
+
+5) autocommit on ddl 
+   canadian blood bank
+
+7) (clpplus - a) sqlca after every sql, jcc has no api, 10PD
+
+6) set stmt with host vars (jcc and server dependency) = dont know whether its in kepler
+
+
+
+
+column data store - blue, in kepler, new db2 server release, thats why kepler, not 10.1 fixpack
+
+fvt success -  feb 15th 
+
+shareable project central
+
+sizing, capacity
+
+
